@@ -1,8 +1,11 @@
 # Project Specification: Legislative Counterfactual Simulation Engine
 
 Author: Gabriel Castilho
+
 Role: Backend & System Architecture
+
 Status: Final Architecture Phase (Post-Final Review)
+
 Core Direction: Utility-Driven Strategic Multi-Agent System
 
 ## 1. Executive Summary
